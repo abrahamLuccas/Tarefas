@@ -1,0 +1,34 @@
+﻿@model toDo.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Criar Tarefa";
+}<h1>Criar Tarefa</h1>
+<h4>Tarefa</h4>
+<hr/>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label"></label>
+                <input asp-for="EndDate" class="form-control" type="date" />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check" style="margin-top:29px;">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Status" />
+                    Realizado
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Inserir" class="btn btn-primary btn-sm" />
+                <a class="btn btn-secondary text-white btn-sm" asp-action="Index">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>

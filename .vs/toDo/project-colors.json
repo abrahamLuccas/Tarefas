@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "c8c91f48-50b3-433d-b600-4fe76a44b730": {
+      "ProjectGuid": "c8c91f48-50b3-433d-b600-4fe76a44b730",
+      "DisplayName": "toDo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

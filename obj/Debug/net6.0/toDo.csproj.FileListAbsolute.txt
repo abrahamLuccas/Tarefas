@@ -1,0 +1,305 @@
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\appsettings.json
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.staticwebassets.runtime.json
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.exe
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.deps.json
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.runtimeconfig.json
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\ref\toDo.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\toDo.pdb
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.AssemblyInfoInputs.cache
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.AssemblyInfo.cs
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cache
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cs
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\scopedcss\bundle\toDo.styles.css
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\scopedcss\projectbundle\toDo.bundle.scp.css
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\ref\toDo.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.pdb
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.genruntimeconfig.cache
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\obj\Debug\net6.0\toDo.csproj.CopyComplete
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alunos.EDUC602\Desktop\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\appsettings.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.staticwebassets.runtime.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.exe
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.deps.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.runtimeconfig.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\ref\toDo.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\toDo.pdb
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.csproj.AssemblyReference.cache
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.AssemblyInfoInputs.cache
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.AssemblyInfo.cs
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cache
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cs
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\scopedcss\bundle\toDo.styles.css
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\scopedcss\projectbundle\toDo.bundle.scp.css
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.csproj.CopyComplete
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\ref\toDo.dll
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.pdb
+C:\Users\alunos.EDUC602\OneDrive - SESISENAISP - Escolas\Área de Trabalho\toDo\obj\Debug\net6.0\toDo.genruntimeconfig.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.csproj.AssemblyReference.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.AssemblyInfoInputs.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.AssemblyInfo.cs
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cache
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cs
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.dll
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\ref\toDo.dll
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.pdb
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\appsettings.json
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.staticwebassets.runtime.json
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.exe
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.deps.json
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.runtimeconfig.json
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\ref\toDo.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\toDo.pdb
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abrah\Desktop\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\scopedcss\bundle\toDo.styles.css
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\scopedcss\projectbundle\toDo.bundle.scp.css
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.csproj.CopyComplete
+C:\Users\abrah\Desktop\ToDo\obj\Debug\net6.0\toDo.genruntimeconfig.cache
+F:\le\1702\ToDo\bin\Debug\net6.0\appsettings.Development.json
+F:\le\1702\ToDo\bin\Debug\net6.0\appsettings.json
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.staticwebassets.runtime.json
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.exe
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.deps.json
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.runtimeconfig.json
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\ref\toDo.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\toDo.pdb
+F:\le\1702\ToDo\bin\Debug\net6.0\Humanizer.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\le\1702\ToDo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.csproj.AssemblyReference.cache
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.AssemblyInfoInputs.cache
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.AssemblyInfo.cs
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.csproj.CoreCompileInputs.cache
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.MvcApplicationPartsAssemblyInfo.cache
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cache
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cs
+F:\le\1702\ToDo\obj\Debug\net6.0\staticwebassets.build.json
+F:\le\1702\ToDo\obj\Debug\net6.0\staticwebassets.development.json
+F:\le\1702\ToDo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\le\1702\ToDo\obj\Debug\net6.0\scopedcss\bundle\toDo.styles.css
+F:\le\1702\ToDo\obj\Debug\net6.0\scopedcss\projectbundle\toDo.bundle.scp.css
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.csproj.CopyComplete
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.dll
+F:\le\1702\ToDo\obj\Debug\net6.0\ref\toDo.dll
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.pdb
+F:\le\1702\ToDo\obj\Debug\net6.0\toDo.genruntimeconfig.cache
+C:\Users\Alunos.EDUC602\Desktop\ToDo\obj\Debug\net6.0\toDo.csproj.AssemblyReference.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\appsettings.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.staticwebassets.runtime.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.exe
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.deps.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.runtimeconfig.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\toDo.pdb
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.csproj.AssemblyReference.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.AssemblyInfoInputs.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.AssemblyInfo.cs
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.RazorAssemblyInfo.cs
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\scopedcss\bundle\toDo.styles.css
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\scopedcss\projectbundle\toDo.bundle.scp.css
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.csproj.CopyComplete
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\refint\toDo.dll
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.pdb
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\toDo.genruntimeconfig.cache
+C:\Users\abrah\Desktop\ToDo1\ToDo1\obj\Debug\net6.0\ref\toDo.dll
